@@ -4,7 +4,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-13 11:17+0000\n"
 "PO-Revision-Date: 2019-02-20 12:21-0300\n"
@@ -30,12 +30,12 @@ msgstr "<b>PRINCIPAL</b>"
 #. module: openeducat_core
 #: model:ir.actions.act_window,help:openeducat_core.open_board_faculty
 msgid "<b>Your faculty dashboard is empty.</b>"
-msgstr "<b> Seu painel do corpo docente está vazio. </b>"
+msgstr "<b> Seu painel do Professor está vazio. </b>"
 
 #. module: openeducat_core
 #: model:ir.actions.act_window,help:openeducat_core.open_board_student
 msgid "<b>Your student dashboard is empty.</b>"
-msgstr "<b> Seu painel de alunos está vazio. </b>"
+msgstr "<b> Seu painel de Aluno está vazio. </b>"
 
 #. module: openeducat_core
 #: model:ir.ui.view,arch_db:openeducat_core.report_student_idcard
