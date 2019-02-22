@@ -1,0 +1,944 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: openeducat-erp\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-29 12:17+0000\n"
+"PO-Revision-Date: 2019-02-22 11:53\n"
+"Last-Translator: cilas <cilas.acms@gmail.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: openeducat-erp\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: openeducat_exam.pot\n"
+"Language: pt_BR\n"
+
+#. module: openeducat_exam
+#: selection:op.exam.attendees,status:0
+msgid "Absent"
+msgstr "Ausente"
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_form
+#: field:op.exam,attendees_line:0
+msgid "Attendees"
+msgstr "Participantes"
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_search
+#: field:op.exam.session,batch_id:0
+msgid "Batch"
+msgstr "Lote"
+
+#. module: openeducat_exam
+#: selection:op.exam,evaluation_type:0
+msgid "CCE"
+msgstr "CCE"
+
+#. module: openeducat_exam
+#: selection:op.exam,evaluation_type:0
+msgid "CWA"
+msgstr "CWA"
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_form
+#: view:student.hall.ticket:openeducat_exam.student_hall_ticket_form
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. module: openeducat_exam
+#: selection:op.exam,state:0
+#: selection:op.marksheet.register,status:0
+msgid "Cancelled"
+msgstr "Cancelado"
+
+#. module: openeducat_exam
+#: field:op.exam.room,capacity:0
+msgid "Capacity"
+msgstr "Capacidade"
+
+#. module: openeducat_exam
+#: field:op.exam.room,classroom_id:0
+msgid "Classroom"
+msgstr "Sala de aula"
+
+#. module: openeducat_exam
+#: view:op.exam.type:openeducat_exam.view_op_exam_type_search
+#: field:op.exam.type,code:0
+msgid "Code"
+msgstr "Código"
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_search
+#: field:op.exam.session,course_id:0
+#: view:website:openeducat_exam.report_marksheet_report
+msgid "Course"
+msgstr "Curso"
+
+#. module: openeducat_exam
+#: view:website:openeducat_exam.report_exam_student_lable
+#: view:website:openeducat_exam.report_ticket
+msgid "Course :"
+msgstr "Curso :"
+
+#. module: openeducat_exam
+#: view:op.exam.room:openeducat_exam.view_op_exam_room_form
+#: field:op.exam.room,course_ids:0
+msgid "Course(s)"
+msgstr "Curso(s)"
+
+#. module: openeducat_exam
+#: field:op.exam,create_uid:0
+#: field:op.exam.attendees,create_uid:0
+#: field:op.exam.res.allocation,create_uid:0
+#: field:op.exam.room,create_uid:0
+#: field:op.exam.session,create_uid:0
+#: field:op.exam.type,create_uid:0
+#: field:op.marksheet.line,create_uid:0
+#: field:op.marksheet.register,create_uid:0
+#: field:op.min.clear.criteria,create_uid:0
+#: field:op.pass.status,create_uid:0
+#: field:op.result.exam.line,create_uid:0
+#: field:op.result.line,create_uid:0
+#: field:op.result.template,create_uid:0
+#: field:op.result.template.line,create_uid:0
+#: field:student.hall.ticket,create_uid:0
+msgid "Created by"
+msgstr "Criado por"
+
+#. module: openeducat_exam
+#: field:op.exam,create_date:0
+#: field:op.exam.attendees,create_date:0
+#: field:op.exam.res.allocation,create_date:0
+#: field:op.exam.room,create_date:0
+#: field:op.exam.session,create_date:0
+#: field:op.exam.type,create_date:0
+#: field:op.marksheet.line,create_date:0
+#: field:op.marksheet.register,create_date:0
+#: field:op.min.clear.criteria,create_date:0
+#: field:op.pass.status,create_date:0
+#: field:op.result.exam.line,create_date:0
+#: field:op.result.line,create_date:0
+#: field:op.result.template,create_date:0
+#: field:op.result.template.line,create_date:0
+#: field:student.hall.ticket,create_date:0
+msgid "Created on"
+msgstr "Criado em"
+
+#. module: openeducat_exam
+#: view:website:openeducat_exam.report_ticket
+msgid "Date"
+msgstr "Data"
+
+#. module: openeducat_exam
+#: help:op.exam,message_last_post:0
+msgid "Date of the last message posted on the record."
+msgstr "Data da última mensagem postada no registro."
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_form
+msgid "Description"
+msgstr "Descrição"
+
+#. module: openeducat_exam
+#: field:op.result.template.line,detailed_report:0
+msgid "Detailed Report"
+msgstr "Relatório detalhado"
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_form
+#: selection:op.exam,state:0
+msgid "Done"
+msgstr "Feito"
+
+#. module: openeducat_exam
+#: selection:op.marksheet.register,status:0
+msgid "Draft"
+msgstr "Rascunho"
+
+#. module: openeducat_exam
+#: field:op.exam.session,end_date:0
+msgid "End Date"
+msgstr "Data Final"
+
+#. module: openeducat_exam
+#: field:op.exam,end_time:0
+msgid "End Time"
+msgstr "Hora Final"
+
+#. module: openeducat_exam
+#: code:addons/openeducat_exam/models/exam.py:56
+#, python-format
+msgid "Enter proper marks!"
+msgstr "Digite as marcações apropriadas!"
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_search
+#: field:op.exam,evaluation_type:0
+msgid "Evaluation Type"
+msgstr "Tipo de Avaliação"
+
+#. module: openeducat_exam
+#: model:ir.model,name:openeducat_exam.model_op_exam
+#: view:op.exam:openeducat_exam.view_op_exam_form
+#: view:op.exam:openeducat_exam.view_op_exam_search
+#: view:op.exam:openeducat_exam.view_op_exam_tree
+#: field:op.exam,name:0
+#: view:op.exam.attendees:openeducat_exam.view_op_exam_attendees_search
+#: field:op.exam.attendees,exam_id:0
+#: view:op.exam.res.allocation:openeducat_exam.view_op_exam_res_allocation_form
+#: view:op.exam.session:openeducat_exam.view_op_exam_session_form
+#: field:op.exam.session,name:0
+#: field:op.marksheet.register,exam_session_id:0
+#: field:op.result.exam.line,exam_id:0
+#: view:op.result.line:openeducat_exam.view_op_result_line_search
+#: field:op.result.line,exam_id:0
+msgid "Exam"
+msgstr "Prova de exame"
+
+#. module: openeducat_exam
+#: model:ir.actions.act_window,name:openeducat_exam.act_open_op_exam_attendees_view
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_exam_attendees_sub
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_exam_attendees_sub_faculty
+#: view:op.exam.attendees:openeducat_exam.view_op_exam_attendees_form
+#: view:op.exam.attendees:openeducat_exam.view_op_exam_attendees_search
+#: view:op.exam.attendees:openeducat_exam.view_op_exam_attendees_tree
+msgid "Exam Attendees"
+msgstr "Participantes da prova"
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_search
+#: field:op.exam,exam_code:0
+#: field:op.exam.session,exam_code:0
+#: view:website:openeducat_exam.report_marksheet_report
+msgid "Exam Code"
+msgstr "Código da prova"
+
+#. module: openeducat_exam
+#: field:op.result.template.line,exam_lines:0
+msgid "Exam Lines"
+msgstr "Linhas de exame"
+
+#. module: openeducat_exam
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_school_config_exam
+msgid "Exam Management"
+msgstr "Gerenciamento de Provas"
+
+#. module: openeducat_exam
+#: view:website:openeducat_exam.report_marksheet_report
+msgid "Exam Name"
+msgstr "Nome da prova"
+
+#. module: openeducat_exam
+#: model:ir.actions.act_window,name:openeducat_exam.act_open_op_exam_res_allocation_view
+#: view:op.exam.res.allocation:openeducat_exam.view_op_exam_res_allocation_form
+#: view:op.exam.res.allocation:openeducat_exam.view_op_exam_res_allocation_search
+#: view:op.exam.res.allocation:openeducat_exam.view_op_exam_res_allocation_tree
+msgid "Exam Resource Allocation"
+msgstr "Alocação de Recurso do Exame"
+
+#. module: openeducat_exam
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_school_exam_result
+msgid "Exam Result"
+msgstr "Resultado da prova"
+
+#. module: openeducat_exam
+#: view:op.exam.room:openeducat_exam.view_op_exam_room_form
+#: view:op.exam.room:openeducat_exam.view_op_exam_room_search
+#: view:op.exam.room:openeducat_exam.view_op_exam_room_tree
+msgid "Exam Room"
+msgstr "Sala da Prova"
+
+#. module: openeducat_exam
+#: model:ir.actions.act_window,name:openeducat_exam.act_open_op_exam_room_view
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_exam_room_sub
+msgid "Exam Rooms"
+msgstr "Salas da Prova"
+
+#. module: openeducat_exam
+#: model:ir.model,name:openeducat_exam.model_op_exam_session
+#: field:op.exam,session_id:0
+#: view:op.exam.session:openeducat_exam.view_op_exam_session_form
+#: view:op.exam.session:openeducat_exam.view_op_exam_session_search
+#: view:op.exam.session:openeducat_exam.view_op_exam_session_tree
+#: view:op.marksheet.register:openeducat_exam.view_op_marksheet_register_search
+#: field:op.result.template,exam_session_id:0
+#: field:op.result.template.line,exam_session_id:0
+#: field:student.hall.ticket,exam_session_id:0
+msgid "Exam Session"
+msgstr "Seção da Prova"
+
+#. module: openeducat_exam
+#: model:ir.actions.act_window,name:openeducat_exam.act_open_op_exam_session_view
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_exam_session
+msgid "Exam Sessions"
+msgstr "Seções da Prova"
+
+#. module: openeducat_exam
+#: view:op.result.exam.line:openeducat_exam.view_op_result_exam_line_search
+#: view:op.result.exam.line:openeducat_exam.view_op_result_exam_line_tree
+#: view:op.result.line:openeducat_exam.view_op_result_line_search
+#: field:op.result.line,exam_tmpl_id:0
+#: view:op.result.template.line:openeducat_exam.view_op_result_template_line_form
+msgid "Exam Template"
+msgstr "Modelo da Prova"
+
+#. module: openeducat_exam
+#: model:ir.actions.act_window,name:openeducat_exam.act_open_op_result_exam_line_view
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_result_exam_line
+msgid "Exam Templates"
+msgstr "Modelo da Prova"
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_search
+#: field:op.exam,exam_type:0
+#: view:op.exam.type:openeducat_exam.view_op_exam_type_form
+#: view:op.exam.type:openeducat_exam.view_op_exam_type_search
+#: view:op.exam.type:openeducat_exam.view_op_exam_type_tree
+#: view:website:openeducat_exam.report_marksheet_report
+msgid "Exam Type"
+msgstr "Tipo de Prova"
+
+#. module: openeducat_exam
+#: model:ir.actions.act_window,name:openeducat_exam.act_open_op_exam_type_view
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_exam_type_sub
+msgid "Exam Types"
+msgstr "Tipos de Prova"
+
+#. module: openeducat_exam
+#: field:op.exam.res.allocation,exam_ids:0
+#: view:op.exam.session:openeducat_exam.view_op_exam_session_form
+#: field:op.exam.session,exam_ids:0
+msgid "Exam(s)"
+msgstr "Prova(s)"
+
+#. module: openeducat_exam
+#: model:ir.actions.act_window,name:openeducat_exam.act_open_op_exam_view
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_exam_main
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_exam_main_faculty
+msgid "Exams"
+msgstr "Provas"
+
+#. module: openeducat_exam
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_exam_res_allocation_main
+msgid "Exams Resource Allocation"
+msgstr "Alocação de recursos das Provas"
+
+#. module: openeducat_exam
+#: view:op.exam.res.allocation:openeducat_exam.view_op_exam_res_allocation_form
+#: field:op.exam.res.allocation,faculty_ids:0
+msgid "Faculty"
+msgstr "Professor"
+
+#. module: openeducat_exam
+#: selection:op.result.line,status:0
+msgid "Fail"
+msgstr "Falhou"
+
+#. module: openeducat_exam
+#: field:op.exam,message_follower_ids:0
+msgid "Followers"
+msgstr "Seguidores"
+
+#. module: openeducat_exam
+#: selection:op.exam,evaluation_type:0
+msgid "GPA"
+msgstr "GPA"
+
+#. module: openeducat_exam
+#: view:op.result.template:openeducat_exam.view_op_result_template_form
+msgid "Generate Result"
+msgstr "Gerar resultado"
+
+#. module: openeducat_exam
+#: view:op.marksheet.register:openeducat_exam.view_op_marksheet_register_search
+#: field:op.marksheet.register,generated_by:0
+msgid "Generated By"
+msgstr "Gerado por"
+
+#. module: openeducat_exam
+#: field:op.marksheet.register,generated_date:0
+msgid "Generated Date"
+msgstr "Gerado na Data"
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_search
+#: view:op.exam.attendees:openeducat_exam.view_op_exam_attendees_search
+#: view:op.exam.type:openeducat_exam.view_op_exam_type_search
+#: view:op.marksheet.line:openeducat_exam.view_op_marksheet_line_search
+#: view:op.marksheet.register:openeducat_exam.view_op_marksheet_register_search
+#: view:op.result.line:openeducat_exam.view_op_result_line_search
+msgid "Group By..."
+msgstr "Agrupar por..."
+
+#. module: openeducat_exam
+#: view:website:openeducat_exam.report_ticket
+msgid "Hall Ticket For"
+msgstr "Corredor de passagem para"
+
+#. module: openeducat_exam
+#: selection:op.exam,state:0
+msgid "Held"
+msgstr "Realizada"
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_form
+msgid "Held Exam"
+msgstr "Prova Realizada"
+
+#. module: openeducat_exam
+#: help:op.exam,message_summary:0
+msgid "Holds the Chatter summary (number of messages, ...). This summary is directly in html format in order to be inserted in kanban views."
+msgstr "Faz o resumo do Chatter (número de mensagens, ...). Este resumo está diretamente no formato html para ser inserido em visualizações kanban."
+
+#. module: openeducat_exam
+#: field:op.exam,id:0
+#: field:op.exam.attendees,id:0
+#: field:op.exam.res.allocation,id:0
+#: field:op.exam.room,id:0
+#: field:op.exam.session,id:0
+#: field:op.exam.type,id:0
+#: field:op.marksheet.line,id:0
+#: field:op.marksheet.register,id:0
+#: field:op.min.clear.criteria,id:0
+#: field:op.pass.status,id:0
+#: field:op.result.exam.line,id:0
+#: field:op.result.line,id:0
+#: field:op.result.template,id:0
+#: field:op.result.template.line,id:0
+#: field:report.openeducat_exam.report_exam_student_lable,id:0
+#: field:report.openeducat_exam.report_marksheet_report,id:0
+#: field:report.openeducat_exam.report_ticket,id:0
+#: field:student.hall.ticket,id:0
+msgid "ID"
+msgstr "ID"
+
+#. module: openeducat_exam
+#: help:op.exam,message_unread:0
+msgid "If checked new messages require your attention."
+msgstr "Se verificado novas mensagens requerem sua atenção."
+
+#. module: openeducat_exam
+#: field:op.exam,message_is_follower:0
+msgid "Is a Follower"
+msgstr "É um seguidor"
+
+#. module: openeducat_exam
+#: field:op.exam,message_last_post:0
+msgid "Last Message Date"
+msgstr "Data da última mensagem"
+
+#. module: openeducat_exam
+#: field:op.exam,write_uid:0
+#: field:op.exam.attendees,write_uid:0
+#: field:op.exam.res.allocation,write_uid:0
+#: field:op.exam.room,write_uid:0
+#: field:op.exam.session,write_uid:0
+#: field:op.exam.type,write_uid:0
+#: field:op.marksheet.line,write_uid:0
+#: field:op.marksheet.register,write_uid:0
+#: field:op.min.clear.criteria,write_uid:0
+#: field:op.pass.status,write_uid:0
+#: field:op.result.exam.line,write_uid:0
+#: field:op.result.line,write_uid:0
+#: field:op.result.template,write_uid:0
+#: field:op.result.template.line,write_uid:0
+#: field:student.hall.ticket,write_uid:0
+msgid "Last Updated by"
+msgstr "Última atualização por"
+
+#. module: openeducat_exam
+#: field:op.exam,write_date:0
+#: field:op.exam.attendees,write_date:0
+#: field:op.exam.res.allocation,write_date:0
+#: field:op.exam.room,write_date:0
+#: field:op.exam.session,write_date:0
+#: field:op.exam.type,write_date:0
+#: field:op.marksheet.line,write_date:0
+#: field:op.marksheet.register,write_date:0
+#: field:op.min.clear.criteria,write_date:0
+#: field:op.pass.status,write_date:0
+#: field:op.result.exam.line,write_date:0
+#: field:op.result.line,write_date:0
+#: field:op.result.template,write_date:0
+#: field:op.result.template.line,write_date:0
+#: field:student.hall.ticket,write_date:0
+msgid "Last Updated on"
+msgstr "Última atualização em"
+
+#. module: openeducat_exam
+#: view:website:openeducat_exam.report_marksheet_report
+msgid "MarkSheet"
+msgstr "Gabarito"
+
+#. module: openeducat_exam
+#: field:op.exam.attendees,marks:0
+#: view:op.result.line:openeducat_exam.view_op_result_line_search
+#: field:op.result.line,marks:0
+msgid "Marks"
+msgstr "Marcações"
+
+#. module: openeducat_exam
+#: model:ir.actions.report.xml,name:openeducat_exam.report_marksheet
+msgid "Marksheet"
+msgstr "Gabarito"
+
+#. module: openeducat_exam
+#: view:op.marksheet.line:openeducat_exam.view_op_marksheet_line_form
+#: view:op.marksheet.line:openeducat_exam.view_op_marksheet_line_search
+#: view:op.marksheet.line:openeducat_exam.view_op_marksheet_line_tree
+#: view:op.result.line:openeducat_exam.view_op_result_line_search
+#: field:op.result.line,marksheet_line_id:0
+#: field:op.result.line,result_id:0
+msgid "Marksheet Line"
+msgstr "Linha do Gabarito"
+
+#. module: openeducat_exam
+#: model:ir.actions.act_window,name:openeducat_exam.act_open_op_marksheet_line_view
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_marksheet_line_sub
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_marksheet_line_sub_faculty
+msgid "Marksheet Lines"
+msgstr "Linhas do Gabarito"
+
+#. module: openeducat_exam
+#: view:op.marksheet.line:openeducat_exam.view_op_marksheet_line_search
+#: field:op.marksheet.line,marksheet_reg_id:0
+#: view:op.marksheet.register:openeducat_exam.view_op_marksheet_register_form
+#: view:op.marksheet.register:openeducat_exam.view_op_marksheet_register_search
+#: view:op.marksheet.register:openeducat_exam.view_op_marksheet_register_tree
+#: field:op.marksheet.register,name:0
+msgid "Marksheet Register"
+msgstr "Registro do Gabarito"
+
+#. module: openeducat_exam
+#: model:ir.actions.act_window,name:openeducat_exam.act_open_op_marksheet_register_view
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_marksheet_register_sub
+msgid "Marksheet Registers"
+msgstr "Registros do Gabarito"
+
+#. module: openeducat_exam
+#: view:op.marksheet.register:openeducat_exam.view_op_marksheet_register_form
+#: field:op.marksheet.register,marksheet_line:0
+msgid "Marksheets"
+msgstr "Gabaritos"
+
+#. module: openeducat_exam
+#: field:op.exam,message_ids:0
+msgid "Messages"
+msgstr "Mensagens"
+
+#. module: openeducat_exam
+#: help:op.exam,message_ids:0
+msgid "Messages and communication history"
+msgstr "Mensagens e histórico de comunicação"
+
+#. module: openeducat_exam
+#: field:op.pass.status,number:0
+msgid "Minimum Percentage"
+msgstr "Porcentagem mínima"
+
+#. module: openeducat_exam
+#: view:op.result.template:openeducat_exam.view_op_result_template_form
+#: field:op.result.template,criteria_ids:0
+msgid "Minimum Qualification Criteria"
+msgstr "Critério mínimo de qualificação"
+
+#. module: openeducat_exam
+#: view:website:openeducat_exam.report_marksheet_report
+msgid "Month/Year of Passing"
+msgstr "Mês/Ano da Passagem"
+
+#. module: openeducat_exam
+#: field:op.exam.room,name:0
+#: view:op.exam.type:openeducat_exam.view_op_exam_type_search
+#: field:op.exam.type,name:0
+#: field:op.min.clear.criteria,name:0
+#: field:op.pass.status,name:0
+#: field:op.result.template,name:0
+msgid "Name"
+msgstr "Nome"
+
+#. module: openeducat_exam
+#: view:website:openeducat_exam.report_exam_student_lable
+msgid "Name :"
+msgstr "Nome :"
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_form
+#: selection:op.exam,state:0
+msgid "New Exam"
+msgstr "Nova Prova"
+
+#. module: openeducat_exam
+#: selection:op.exam,evaluation_type:0
+msgid "Normal"
+msgstr "Normal"
+
+#. module: openeducat_exam
+#: field:op.exam,note:0
+#: view:op.exam.attendees:openeducat_exam.view_op_exam_attendees_form
+#: field:op.exam.attendees,note:0
+msgid "Note"
+msgstr "Nota"
+
+#. module: openeducat_exam
+#: field:op.min.clear.criteria,number:0
+msgid "Number of Failed Subject"
+msgstr "Número de assunto falhado"
+
+#. module: openeducat_exam
+#: view:website:openeducat_exam.report_marksheet_report
+msgid "Obtained Marks"
+msgstr "Marcas Obtidas"
+
+#. module: openeducat_exam
+#: view:website:openeducat_exam.report_marksheet_report
+msgid "Obtained Marks/Total Marks"
+msgstr "Marcas Obtidas/Marcas totais"
+
+#. module: openeducat_exam
+#: selection:op.result.line,status:0
+msgid "Pass"
+msgstr "Passe"
+
+#. module: openeducat_exam
+#: model:ir.actions.act_window,name:openeducat_exam.act_open_op_pass_status_view
+#: model:ir.model,name:openeducat_exam.model_op_pass_status
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_pass_status
+#: view:op.pass.status:openeducat_exam.view_op_pass_status_form
+#: view:op.pass.status:openeducat_exam.view_op_pass_status_tree
+#: field:op.result.template,pass_status_ids:0
+msgid "Pass Status"
+msgstr "Status do Passe"
+
+#. module: openeducat_exam
+#: field:op.exam,min_marks:0
+#: view:website:openeducat_exam.report_marksheet_report
+msgid "Passing Marks"
+msgstr "Marcas de passagem"
+
+#. module: openeducat_exam
+#: view:op.result.template:openeducat_exam.view_op_result_template_form
+msgid "Passing Status"
+msgstr "Status de passagem"
+
+#. module: openeducat_exam
+#: field:op.result.line,per:0
+#: field:op.result.line,total_marks:0
+#: view:website:openeducat_exam.report_marksheet_report
+msgid "Percentage"
+msgstr "Porcentagem"
+
+#. module: openeducat_exam
+#: selection:op.exam.attendees,status:0
+msgid "Present"
+msgstr "Presente"
+
+#. module: openeducat_exam
+#: view:student.hall.ticket:openeducat_exam.student_hall_ticket_form
+msgid "Print"
+msgstr "Imprimir"
+
+#. module: openeducat_exam
+#: model:ir.actions.act_window,name:openeducat_exam.act_open_op_min_clearance_criteria_view
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_min_clearance_criteria
+#: view:op.min.clear.criteria:openeducat_exam.view_op_min_clearance_criteria_form
+#: view:op.min.clear.criteria:openeducat_exam.view_op_min_clearance_criteria_tree
+msgid "Qualification Criteria"
+msgstr "Critérios de qualificação"
+
+#. module: openeducat_exam
+#: field:op.exam,responsible_id:0
+msgid "Responsible"
+msgstr "Responsável"
+
+#. module: openeducat_exam
+#: view:op.marksheet.line:openeducat_exam.view_op_marksheet_line_search
+#: field:op.marksheet.line,result:0
+#: view:op.result.exam.line:openeducat_exam.view_op_result_exam_line_form
+#: view:website:openeducat_exam.report_marksheet_report
+msgid "Result"
+msgstr "Resultado"
+
+#. module: openeducat_exam
+#: field:op.result.template,result_date:0
+msgid "Result Date"
+msgstr "Data do Resultado"
+
+#. module: openeducat_exam
+#: model:ir.model,name:openeducat_exam.model_op_result_exam_line
+msgid "Result Exam Line"
+msgstr "Linha de resultado da Prova"
+
+#. module: openeducat_exam
+#: view:op.result.line:openeducat_exam.view_op_result_line_form
+#: view:op.result.line:openeducat_exam.view_op_result_line_search
+#: view:op.result.line:openeducat_exam.view_op_result_line_tree
+msgid "Result Line"
+msgstr "Linha de resultado"
+
+#. module: openeducat_exam
+#: model:ir.actions.act_window,name:openeducat_exam.act_open_op_result_line_view
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_result_line_sub
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_result_line_sub_faculty
+#: field:op.result.exam.line,result_lines:0
+msgid "Result Lines"
+msgstr "Linhas de resultado"
+
+#. module: openeducat_exam
+#: model:ir.model,name:openeducat_exam.model_op_result_template
+#: view:op.result.template:openeducat_exam.view_op_result_template_form
+#: view:op.result.template:openeducat_exam.view_op_result_template_search
+#: view:op.result.template:openeducat_exam.view_op_result_template_tree
+msgid "Result Template"
+msgstr "Modelo de resultado"
+
+#. module: openeducat_exam
+#: model:ir.model,name:openeducat_exam.model_op_result_template_line
+#: field:op.result.template.line,result_id:0
+msgid "Result Template Line"
+msgstr "Linha de Modelo de Resultado"
+
+#. module: openeducat_exam
+#: model:ir.actions.act_window,name:openeducat_exam.act_open_op_result_template_view
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_result_template
+msgid "Result Templates"
+msgstr "Modelos de resultado"
+
+#. module: openeducat_exam
+#: field:op.min.clear.criteria,result:0
+#: field:op.pass.status,result:0
+msgid "Result to Display"
+msgstr "Resultado para exibir"
+
+#. module: openeducat_exam
+#: view:op.marksheet.line:openeducat_exam.view_op_marksheet_line_form
+#: field:op.marksheet.line,result_line:0
+msgid "Results"
+msgstr "Resultados"
+
+#. module: openeducat_exam
+#: view:website:openeducat_exam.report_exam_student_lable
+#: view:website:openeducat_exam.report_ticket
+msgid "Roll No :"
+msgstr "Nº do Rolo:"
+
+#. module: openeducat_exam
+#: field:op.exam.session,room_id:0
+msgid "Room"
+msgstr "Sala"
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_form
+msgid "Schedule Exam"
+msgstr "Agendar exame"
+
+#. module: openeducat_exam
+#: selection:op.exam,state:0
+msgid "Scheduled"
+msgstr "Agendado"
+
+#. module: openeducat_exam
+#: view:website:openeducat_exam.report_exam_student_lable
+msgid "Seating Arrangement for Student Examination"
+msgstr "Arranjo de lugares para exame de estudantes"
+
+#. module: openeducat_exam
+#: field:op.exam.res.allocation,exam_session_ids:0
+msgid "Select Exam Session"
+msgstr "Selecionar Sessão de Exame"
+
+#. module: openeducat_exam
+#: view:op.exam.res.allocation:openeducat_exam.view_op_exam_res_allocation_form
+msgid "Session"
+msgstr "Sessão"
+
+#. module: openeducat_exam
+#: field:op.result.template,line_ids:0
+msgid "Session Lines"
+msgstr "Linhas de sessão"
+
+#. module: openeducat_exam
+#: field:op.marksheet.line,exam_session_id:0
+#: field:op.result.exam.line,result_id:0
+#: view:op.result.template.line:openeducat_exam.view_op_result_template_line_form
+#: view:op.result.template.line:openeducat_exam.view_op_result_template_line_search
+#: view:op.result.template.line:openeducat_exam.view_op_result_template_line_tree
+msgid "Session Template"
+msgstr "Modelo de sessão"
+
+#. module: openeducat_exam
+#: model:ir.actions.act_window,name:openeducat_exam.act_open_op_result_template_line_view
+#: model:ir.ui.menu,name:openeducat_exam.menu_op_result_template_line
+#: view:op.result.template:openeducat_exam.view_op_result_template_form
+msgid "Session Templates"
+msgstr "Modelos de sessão"
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_search
+msgid "Standard"
+msgstr "Padrão"
+
+#. module: openeducat_exam
+#: field:op.exam.session,start_date:0
+msgid "Start Date"
+msgstr "Data de início"
+
+#. module: openeducat_exam
+#: field:op.exam,start_time:0
+msgid "Start Time"
+msgstr "Hora de início"
+
+#. module: openeducat_exam
+#: code:addons/openeducat_exam/models/exam.py:62
+#: code:addons/openeducat_exam/models/exam_session.py:43
+#, python-format
+msgid "Start Time should be greater than End Time!"
+msgstr "Hora de início deve ser maior que Hora Final!"
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_search
+#: field:op.exam,state:0
+msgid "State"
+msgstr "Estado"
+
+#. module: openeducat_exam
+#: view:op.exam.attendees:openeducat_exam.view_op_exam_attendees_search
+#: field:op.exam.attendees,status:0
+#: view:op.marksheet.register:openeducat_exam.view_op_marksheet_register_search
+#: field:op.marksheet.register,status:0
+#: view:op.result.line:openeducat_exam.view_op_result_line_search
+#: field:op.result.line,status:0
+msgid "Status"
+msgstr "Status"
+
+#. module: openeducat_exam
+#: view:op.exam.attendees:openeducat_exam.view_op_exam_attendees_search
+#: field:op.exam.attendees,student_id:0
+#: view:op.exam.res.allocation:openeducat_exam.view_op_exam_res_allocation_form
+#: field:op.exam.res.allocation,student_ids:0
+#: view:op.marksheet.line:openeducat_exam.view_op_marksheet_line_search
+#: field:op.marksheet.line,student_id:0
+#: field:op.result.line,student_id:0
+msgid "Student"
+msgstr "Estudante"
+
+#. module: openeducat_exam
+#: model:ir.actions.report.xml,name:openeducat_exam.action_student_hall_ticket_report
+#: view:student.hall.ticket:openeducat_exam.student_hall_ticket_form
+msgid "Student Hall Ticket"
+msgstr "Ticket de Salão do Aluno"
+
+#. module: openeducat_exam
+#: model:ir.actions.act_window,name:openeducat_exam.student_hall_ticket_act
+#: model:ir.ui.menu,name:openeducat_exam.menu_student_hall_ticket
+msgid "Student Hall Tickets"
+msgstr "Tickets de Salão do Aluno"
+
+#. module: openeducat_exam
+#: model:ir.actions.report.xml,name:openeducat_exam.report_student_label
+msgid "Student Label"
+msgstr "Rótulo do aluno"
+
+#. module: openeducat_exam
+#: view:website:openeducat_exam.report_marksheet_report
+msgid "Student Name"
+msgstr "Nome do aluno"
+
+#. module: openeducat_exam
+#: view:website:openeducat_exam.report_ticket
+msgid "Student Name :"
+msgstr "Nome do aluno:"
+
+#. module: openeducat_exam
+#: view:op.exam.room:openeducat_exam.view_op_exam_room_form
+#: field:op.exam.room,student_ids:0
+msgid "Student(s)"
+msgstr "Aluno(s)"
+
+#. module: openeducat_exam
+#: view:op.result.line:openeducat_exam.view_op_result_line_search
+msgid "Students"
+msgstr "Alunos"
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_search
+#: field:op.exam,subject_id:0
+#: view:website:openeducat_exam.report_marksheet_report
+#: view:website:openeducat_exam.report_ticket
+msgid "Subject"
+msgstr "Assunto"
+
+#. module: openeducat_exam
+#: field:op.exam,message_summary:0
+msgid "Summary"
+msgstr "Sumario"
+
+#. module: openeducat_exam
+#: view:website:openeducat_exam.report_ticket
+msgid "Supervisor Sign"
+msgstr "Assinatura do Supervisor"
+
+#. module: openeducat_exam
+#: view:website:openeducat_exam.report_ticket
+msgid "Time"
+msgstr "Tempo"
+
+#. module: openeducat_exam
+#: view:op.marksheet.register:openeducat_exam.view_op_marksheet_register_search
+#: field:op.marksheet.register,total_failed:0
+msgid "Total Fail"
+msgstr "Total de Falhas"
+
+#. module: openeducat_exam
+#: field:op.exam,total_marks:0
+#: field:op.marksheet.line,total_marks:0
+#: view:website:openeducat_exam.report_marksheet_report
+msgid "Total Marks"
+msgstr "Total de Marcações"
+
+#. module: openeducat_exam
+#: view:op.marksheet.register:openeducat_exam.view_op_marksheet_register_search
+#: field:op.marksheet.register,total_pass:0
+msgid "Total Pass"
+msgstr "Passagem total"
+
+#. module: openeducat_exam
+#: field:op.marksheet.line,total_per:0
+msgid "Total Percentage"
+msgstr "Porcentagem total"
+
+#. module: openeducat_exam
+#: field:op.exam,message_unread:0
+msgid "Unread Messages"
+msgstr "Mensagens não lidas"
+
+#. module: openeducat_exam
+#: selection:op.marksheet.register,status:0
+msgid "Validated"
+msgstr "Validado"
+
+#. module: openeducat_exam
+#: view:op.exam:openeducat_exam.view_op_exam_search
+#: field:op.exam,venue:0
+msgid "Venue"
+msgstr "Local"
+
+#. module: openeducat_exam
+#: field:op.exam,website_message_ids:0
+msgid "Website Messages"
+msgstr "Mensagens do Site"
+
+#. module: openeducat_exam
+#: help:op.exam,website_message_ids:0
+msgid "Website communication history"
+msgstr "Histórico de comunicação do site"
+
+#. module: openeducat_exam
+#: field:op.result.exam.line,weightage:0
+msgid "Weightage"
+msgstr "Weightage"
+
